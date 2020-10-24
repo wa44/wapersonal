@@ -1,0 +1,45 @@
+/* start portflio  */
+
+.grid{
+	margin-left: 15%
+}
+.grid-item img{
+	padding-right: 20%
+}
+.grid-item h5 {
+
+	margin-left: -100px;
+}
+.grid-item span {
+	margin-left: -60%;
+}
+/* End portflio  */
+
+/* start blog */
+
+.Blog .Blog-row img{
+	
+	    float: right;
+}
+.Blog .Blog-row h6 {
+	padding-right: 47px;
+}
+.Blog .Blog-row h5 {
+	padding-right: 47px;
+}
+Blog .Blog-row span {
+	padding-right: 47px;
+}
+/* end blog */
+
+/* Start footer */
+.input-group-append .btn{
+	border-radius: 0
+}
+.form-control{
+	border-radius: 0
+}
+footer .btn i{
+	transform: rotate(180deg)
+}
+/* End footer */

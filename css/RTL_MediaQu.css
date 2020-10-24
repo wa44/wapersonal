@@ -1,0 +1,81 @@
+@media(max-width:575.98px){
+	
+	/* start portflio */
+	
+	.grid{
+		    margin-left: 25%;
+	}
+	.grid-item h5 {
+    
+       font-size: 5px;
+		margin-left: -44px;
+	}
+	.grid-item img {
+		width: 79px;
+	}
+	.grid-item span {
+    font-size: 8px;
+		margin-left: -47px;
+	}
+	
+	/* start portflio */
+	
+	/* start Blog */
+	
+	.Blog .Blog-row h6 {
+		padding-left: 0;
+	}
+	
+	.Blog .Blog-row h5 {
+		padding-left: 0;
+	}
+	.Blog .Blog-row span{
+		    padding-right: 33%;
+    padding-left: 0;
+	}
+	/* End Blog */
+	
+	/* start contact */
+	
+	.contact .card {
+		margin-right: 10%;
+	}
+	/* End contact */
+	
+}
+
+/***********************************************************/
+
+@media (max-width: 767.98px) and (min-width: 576px) {
+	
+	/* start portflio */
+	
+	.grid{
+		    margin-left: 25%;
+	}
+	.grid-item span {
+		    margin-left: -83px;
+	}
+	.grid-item img {
+		    padding-right: 59%;
+		
+	}
+	
+	/* End portflio */
+	
+	/* start blog */
+	
+	.Blog .Blog-row span {
+    padding-right: 47px;
+	
+	/* End blog */
+		
+	}
+	/* start contact */
+	
+	.contact .card {
+		margin-right: 23%;
+	}
+	/* End contact */
+	
+}

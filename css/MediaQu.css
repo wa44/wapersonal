@@ -1,0 +1,346 @@
+
+@media(max-width:575.98px){
+	
+	/* Start Header */
+	
+	.header {
+		padding-top: 4%;
+		overflow: hidden;
+	}
+	.header-text h2 {
+		font-size: 25px;
+		    margin-bottom: 0px;
+	}
+	.header-img img{
+		margin-left: 12%;
+    width: 270px;
+	}
+	/* End Header */
+	
+	/* Start About */
+	
+	.about{
+		margin-bottom: 15%
+	}
+	.about-img img {
+		width: 320px;
+    margin-left: 2%;
+		margin-bottom: 2%
+
+	}
+	
+	.about-text h6 {
+    margin-left: 2%;
+		margin-top: 6%;
+	}
+	
+	.about-text h2 {
+		font-size: 25px;
+		 margin-left: 2%;
+	}
+	.about-text p {
+   margin-left: 2%;
+    padding-right: 0;
+  }
+	.about-text button{
+		 margin-left: 2%;
+	}
+	/* End About */
+	
+	/*  Start Services  */
+	
+	.services h3{
+		    margin-bottom: 0px;
+	}
+	.services p{
+		font-size: 12px
+	}
+	.services-row h5{
+		font-size: 15px
+	}
+	.services .services-row p {
+		font-size: 9px;
+	}
+
+	/*  End Services  */
+	
+	/* Start Pricing  */
+	
+	.pricing h1 {
+		font-size: 20px;
+		margin-bottom: 9px
+	}
+	.pricing p{
+		font-size: 7px;
+	}
+	/* End Pricing  */
+	
+	
+	/* Start Portflio  */
+	
+	.portflio h2{
+		font-size: 25px
+	}
+	.portflio p {
+		font-size: 10px;
+	}
+	.filter .btn{
+		font-size: 11px;
+        margin-right: -8px
+
+	}
+	.grid-item img {
+		width: 90px;
+	}
+	.grid-item h5 {
+    font-size: 8px;
+       margin-bottom: 0;
+		margin-left: 47%;
+	}
+	
+	.grid-item span {
+    font-size: 9px;
+		margin-left: 51%;
+	}
+	/* End Portflio  */
+	
+	
+	/*  Start Blog  */
+	
+	.Blog h2{
+		font-size: 25px
+	}
+	.Blog .Blog-text p {
+		font-size: 11px;
+	}
+	.Blog .Blog-row h6{
+		    font-size: 8px;
+	}
+	.Blog .Blog-row h5{
+		font-size: 12px;
+	}
+	/*  End Blog  */
+	
+	
+	/* Start Pages */
+	
+	.pages h2{
+		font-size: 25px
+	}
+	.pages p {
+		font-size: 12px;
+	}
+	.pages-row {
+		padding-top: 19%;
+	}
+	.pages-row span {
+    padding: 5%;
+    border-radius: 50%;
+    margin-bottom: -21%;
+    
+	}
+	.pages-row h5 {
+    margin-top: 16%;
+    margin-bottom: 23px;
+	}
+	.pages-col{
+		margin-bottom: 65px
+	}
+	
+	/* End Pages */
+	
+	/* Start contact */
+	
+	.contact  h2{
+		font-size: 25px
+	}
+	.contact p {
+		font-size: 12px;
+	}
+	.contact .card {
+    margin-top: 3%;
+		margin-left: 10%;
+		margin-bottom: 15%
+	}
+	/* End contact */
+	
+	/* Start Client */
+	
+	.Client img {
+    height: 35px;
+		width: 37px;
+	}
+	/* End Client */
+	
+	/* Start footer */
+	
+	footer h4 {
+		font-size: 15px;
+	}
+	footer p {
+		font-size: 7px;
+	}
+	footer .sotial-col i {
+		font-size: 9px;
+	}
+	footer .form-control {
+		height: 31px;
+	}
+	footer .btn {
+		height: 31px;
+	}
+	/* End footer */
+}
+
+
+
+/*******************************************************************************************************************/
+
+
+
+
+
+
+@media (max-width: 767.98px) and (min-width: 576px) {
+	
+	/* Start Header */
+	
+	.header-text h6 {
+		margin-top: 24px;
+	}
+	.header-img {
+    padding-left: 9%;
+    }
+	
+	/* End Header */
+	
+	/* Start About */
+	
+	.about {
+		margin-bottom: 10%;
+	}
+	.about-img img {
+    margin-bottom: 15px;
+    margin-left: 10%;
+		width: 390px;
+	}
+	.about-text h2 {
+		font-size: 25px;
+	}
+	/* End About */
+	
+	/* Start Pricing  */
+	
+	
+	.pricing h1 {
+		font-size: 30px;
+	}
+	.pricing p{
+		font-size: 13px
+	}
+	/* End Pricing  */
+	
+	/* Start Portflio */
+	.grid-item img {
+		width: 144px;
+	}
+	.grid-item img {
+		width: 144px;
+	}
+	.grid-item h5 {
+		font-size: 8px;
+	}
+	.grid-item span {
+    font-size: 10px;
+		margin-left: 23%;
+	}
+	/* End Portflio */
+	
+	
+	/*  Start Blog  */
+	
+	.Blog .Blog-text p {
+		font-size: 12px;
+	}
+	
+	/*  End Blog  */
+	
+	/* start pages */
+	.pages-col{
+		margin-top: 75px
+	}
+	
+	/* End pages */
+	
+	
+	
+	/* start contact */
+	
+	.contact  h2{
+		font-size: 25px
+	}
+	.contact p {
+		font-size: 12px;
+	}
+	.contact .card {
+    margin-bottom: 12%;
+		margin-left: 20%;
+	}
+	/* start contact */
+	
+	
+	/* start client */
+	
+	.Client img {
+		width: 78px;
+	}
+	/* End client */
+}
+
+/******************************************************************/
+
+@media (max-width: 991.98px) and (min-width: 768px){
+	
+	/* start header */
+	
+	.header-img img{
+    width: 240px;
+    margin-left: 45px;
+	}
+	/* start header */
+	
+	/* start portflio */
+	
+	.grid-item img {
+		width: 196px;
+	}
+	.grid-item h5 {
+		font-size: 12px;
+	}
+	/* End portflio */
+	
+	/* start pages */
+	.pages-col{
+		margin-top: 5%;
+    margin-right: 34px;
+    margin-bottom: 13%;
+	}
+	
+	/* End pages */
+	
+	/* start contact */
+	
+	.contact .card {
+    margin-bottom: 13%;
+	
+	}
+	/* End contact */
+	
+	
+	/* start clint */
+	
+	.Client img {
+		width: 90px;
+	}
+	/* End clint */
+}
